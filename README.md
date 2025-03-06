@@ -10,3 +10,4 @@ Utility library for the [flutter_chat_ui](https://pub.dev/packages/flutter_chat_
 
 [MIT](LICENSE)
 # flutter_chat_types
+# flutter_chat_types
